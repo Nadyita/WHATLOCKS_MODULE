@@ -2,12 +2,13 @@
 
 declare(strict_types=1);
 
-namespace Budabot\User\Modules;
+namespace Budabot\User\Modules\WHATLOCKS_MODULE;
 
 use Budabot\Core\CommandReply;
 use Budabot\Core\DBRow;
 
 /**
+ * @author Nadyita (RK5) <nadyita@hodorraid.org>
  * @Instance
  *
  * Commands this controller contains:
